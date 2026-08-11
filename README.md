@@ -186,7 +186,7 @@ This project helped me practice:
 
 This lab focuses on the core Azure administration work needed to build a small cloud environment.
 
-The design is intentionally simple. I focused on getting the foundation right first: networking, VM placement, security rules, monitoring, backup, and documentation.
+The design is intentionally simple. I focused on getting the foundation right first networking, VM placement, security rules, monitoring, backup, and documentation.
 
 More advanced features like Azure Bastion, load balancing, availability zones, private-only administration, and Infrastructure as Code are listed as future improvements.
 
